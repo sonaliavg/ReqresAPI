@@ -1,0 +1,8 @@
+[INFO ] 2025-02-26 11:53:10.341 [main] UserTest - ***************Creating user*************
+[INFO ] 2025-02-26 11:53:14.315 [main] UserTest - ***************User created*************
+[INFO ] 2025-02-26 11:53:14.369 [main] UserTest - ***************Get user details*************
+[INFO ] 2025-02-26 11:53:16.089 [main] UserTest - ***************User details displayed*************
+[INFO ] 2025-02-26 11:53:16.099 [main] UserTest - ***************Updating user*************
+[INFO ] 2025-02-26 11:53:19.672 [main] UserTest - ***************User updated successfully*************
+[INFO ] 2025-02-26 11:53:19.682 [main] UserTest - ***************Delete User*************
+[INFO ] 2025-02-26 11:53:21.270 [main] UserTest - ***************User deleted successfully*************
